@@ -8,3 +8,14 @@ wheels/
 
 # Virtual environments
 .venv
+.env
+*.db
+data/
+__pycache__/
+.venv/
+.pytest_cache/
+.idea/
+.vscode/
+terraform.tfvars
+backend.hcl
+tfplan
